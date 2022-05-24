@@ -1,0 +1,19 @@
+Index: HugeInt.c
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#include <stdio.h>\r\n#include \"HugeInt.h\"\r\n\r\nHugeInt* createHugeInt (void) {\r\n    return NULL;\r\n}\r\n\r\nHugeInt* createHugeIntFromString (const char* digitString) {\r\n    return NULL;\r\n}\r\n\r\nHugeInt* createHugeIntFromHugeInt (const HugeInt* hugeInt, const unsigned int size) {\r\n    return NULL;\r\n}\r\n\r\nvoid deleteHugeInt (const HugeInt* hugeInt) {\r\n}\r\n\r\nint getHugeIntLength (const HugeInt* hugeInt) {\r\n    return 0;\r\n}\r\n\r\nHugeInt* simplifyHugeInt (const HugeInt* hugeInt) {\r\n    return NULL;\r\n}\r\n\r\n//ajout\r\n\r\nvoid printHugeInt (const HugeInt* hugeInt) {\r\n    char* hugeIntString = HugeIntToString (hugeInt);\r\n    printf (\"%s\\n\", hugeIntString);\r\n    free (hugeIntString);\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/HugeInt.c b/HugeInt.c
+--- a/HugeInt.c	(revision 35aba85dac8c565cccda394b6b6810dbdb916a06)
++++ b/HugeInt.c	(date 1653390893530)
+@@ -24,8 +24,6 @@
+     return NULL;
+ }
+ 
+-//ajout
+-
+ void printHugeInt (const HugeInt* hugeInt) {
+     char* hugeIntString = HugeIntToString (hugeInt);
+     printf ("%s\n", hugeIntString);

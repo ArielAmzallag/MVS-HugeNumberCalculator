@@ -1,2 +1,1 @@
-# MVS-HugeNumberCalculator
-MVS-HugeNumberCalculator
+# FizzBuzz

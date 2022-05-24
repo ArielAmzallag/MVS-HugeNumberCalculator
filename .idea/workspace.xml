@@ -6,7 +6,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91484827-dbc5-4596-b674-6f539f9f8295" name="Changes" comment="NOUVELLE VERSION HAHAHHAHA venez à l'asobi 30" />
+    <list default="true" id="91484827-dbc5-4596-b674-6f539f9f8295" name="Changes" comment="partie 2, personne 22" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653046927136</updated>
       <workItem from="1653046933002" duration="1688000" />
-      <workItem from="1653384742263" duration="1278000" />
+      <workItem from="1653384742263" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary="Personne 4 ShowHugeNumberblablabla">
       <created>1653048700445</created>
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653385054067</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="partie 2, personne 2">
+      <created>1653389065017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653389065017</updated>
+    </task>
+    <task id="LOCAL-00007" summary="partie 2, personne 22">
+      <created>1653389225645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653389225645</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Personne 4 ShowHugeNumberblablabla" />
     <MESSAGE value="NOUVELLE VERSION HAHAHHAHA venez à l'asobi 30" />
-    <option name="LAST_COMMIT_MESSAGE" value="NOUVELLE VERSION HAHAHHAHA venez à l'asobi 30" />
+    <MESSAGE value="partie 2, personne 2" />
+    <MESSAGE value="partie 2, personne 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="partie 2, personne 22" />
   </component>
 </project>

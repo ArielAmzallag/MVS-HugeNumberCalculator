@@ -23,3 +23,5 @@ int getHugeIntLength (const HugeInt* hugeInt) {
 HugeInt* simplifyHugeInt (const HugeInt* hugeInt) {
     return NULL;
 }
+
+//lol

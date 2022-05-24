@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91484827-dbc5-4596-b674-6f539f9f8295" name="Changes" comment="Romuald tente un truc Partie 2 personne 2">
-      <change beforePath="$PROJECT_DIR$/HugeInt.c" beforeDir="false" afterPath="$PROJECT_DIR$/HugeInt.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2022_13_15__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_05_2022_13_15__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +59,7 @@
       <updated>1653046927136</updated>
       <workItem from="1653046933002" duration="1688000" />
       <workItem from="1653384742263" duration="1278000" />
+      <workItem from="1653391583583" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="Personne 4 ShowHugeNumberblablabla">
       <created>1653048700445</created>
@@ -111,7 +113,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev_HugeInt" />
+                        <option value="dev_showHugeInt" />
                       </list>
                     </value>
                   </entry>

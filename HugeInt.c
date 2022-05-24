@@ -23,3 +23,11 @@ int getHugeIntLength (const HugeInt* hugeInt) {
 HugeInt* simplifyHugeInt (const HugeInt* hugeInt) {
     return NULL;
 }
+
+//ajout
+
+void printHugeInt (const HugeInt* hugeInt) {
+    char* hugeIntString = HugeIntToString (hugeInt);
+    printf ("%s\n", hugeIntString);
+    free (hugeIntString);
+}

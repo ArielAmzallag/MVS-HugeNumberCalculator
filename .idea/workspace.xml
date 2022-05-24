@@ -6,7 +6,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91484827-dbc5-4596-b674-6f539f9f8295" name="Changes" comment="NOUVELLE VERSION HAHAHHAHA venez à l'asobi 30" />
+    <list default="true" id="91484827-dbc5-4596-b674-6f539f9f8295" name="Changes" comment="Romuald tente un truc Partie 2 personne 2">
+      <change beforePath="$PROJECT_DIR$/HugeInt.c" beforeDir="false" afterPath="$PROJECT_DIR$/HugeInt.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev_HugeInt" />
+        <entry key="$PROJECT_DIR$" value="dev_showHugeInt" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +46,7 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="structure.view.defaults.are.configured" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
